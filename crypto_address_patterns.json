@@ -1,0 +1,232 @@
+[
+    {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "patterns": ["^1", "^3", "^bc1"]
+    },
+    {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "patterns": ["^0x"]
+    },
+    {
+        "name": "BNB",
+        "symbol": "BNB",
+        "patterns": ["^bnb"]
+    },
+    {
+        "name": "Solana",
+        "symbol": "SOL",
+        "patterns": ["^[1-9A-HJ-NP-Za-km-z]{32,44}$"]
+    },
+    {
+        "name": "XRP",
+        "symbol": "XRP",
+        "patterns": ["^r"]
+    },
+    {
+        "name": "Dogecoin",
+        "symbol": "DOGE",
+        "patterns": ["^D"]
+    },
+    {
+        "name": "Toncoin",
+        "symbol": "TON",
+        "patterns": ["^EQ"]
+    },
+    {
+        "name": "Cardano",
+        "symbol": "ADA",
+        "patterns": ["^addr1"]
+    },
+    {
+        "name": "Avalanche",
+        "symbol": "AVAX",
+        "patterns": ["^X-", "^C-", "^P-"]
+    },
+    {
+        "name": "Polkadot",
+        "symbol": "DOT",
+        "patterns": ["^1", "^1[3-9A-HJ-NP-Za-km-z]{46}$"]
+    },
+    {
+        "name": "TRON",
+        "symbol": "TRX",
+        "patterns": ["^T"]
+    },
+    {
+        "name": "Bitcoin Cash",
+        "symbol": "BCH",
+        "patterns": ["^q", "^p", "^bitcoincash:q"]
+    },
+    {
+        "name": "NEAR Protocol",
+        "symbol": "NEAR",
+        "patterns": ["^[a-z0-9-_]{2,64}$"]
+    },
+    {
+        "name": "Litecoin",
+        "symbol": "LTC",
+        "patterns": ["^L", "^M", "^ltc1"]
+    },
+    {
+        "name": "Internet Computer",
+        "symbol": "ICP",
+        "patterns": ["^[a-z2-7]{11}(-[a-z2-7]{5}){4}-[a-z2-7]{6}$"]
+    },
+    {
+        "name": "Filecoin",
+        "symbol": "FIL",
+        "patterns": ["^f1", "^f3"]
+    },
+    {
+        "name": "Kaspa",
+        "symbol": "KAS",
+        "patterns": ["^kaspa"]
+    },
+    {
+        "name": "Cosmos",
+        "symbol": "ATOM",
+        "patterns": ["^cosmos"]
+    },
+    {
+        "name": "Stellar",
+        "symbol": "XLM",
+        "patterns": ["^G"]
+    },
+    {
+        "name": "Stacks",
+        "symbol": "STX",
+        "patterns": ["^SP", "^SM"]
+    },
+    {
+        "name": "Arweave",
+        "symbol": "AR",
+        "patterns": ["^[a-z0-9_-]{43}$"]
+    },
+    {
+        "name": "Monero",
+        "symbol": "XMR",
+        "patterns": ["^4", "^8"]
+    },
+    {
+        "name": "Bonk",
+        "symbol": "BONK",
+        "patterns": ["^[1-9A-HJ-NP-Za-km-z]{32,44}$"]
+    },
+    {
+        "name": "THORChain",
+        "symbol": "RUNE",
+        "patterns": ["^thor"]
+    },
+    {
+        "name": "Sei",
+        "symbol": "SEI",
+        "patterns": ["^[a-z0-9]{1,}$"]
+    },
+    {
+        "name": "Algorand",
+        "symbol": "ALGO",
+        "patterns": ["^A"]
+    },
+    {
+        "name": "Beam",
+        "symbol": "BEAM",
+        "patterns": ["^bm"]
+    },
+    {
+        "name": "Akash Network",
+        "symbol": "AKT",
+        "patterns": ["^akash"]
+    },
+    {
+        "name": "Bitcoin SV",
+        "symbol": "BSV",
+        "patterns": ["^1", "^3", "^bc1"]
+    },
+    {
+        "name": "BitTorrent (New)",
+        "symbol": "BTT",
+        "patterns": ["^T"]
+    },
+    {
+        "name": "Neo",
+        "symbol": "NEO",
+        "patterns": ["^A"]
+    },
+    {
+        "name": "MultiversX",
+        "symbol": "EGLD",
+        "patterns": ["^erd"]
+    },
+    {
+        "name": "Ronin",
+        "symbol": "RON",
+        "patterns": ["^ronin:"]
+    },
+    {
+        "name": "eCash",
+        "symbol": "XEC",
+        "patterns": ["^q", "^p"]
+    },
+    {
+        "name": "Tezos",
+        "symbol": "XTZ",
+        "patterns": ["^tz"]
+    },
+    {
+        "name": "Conflux",
+        "symbol": "CFX",
+        "patterns": ["^cfx:"]
+    },
+    {
+        "name": "Mina",
+        "symbol": "MINA",
+        "patterns": ["^[a-km-zA-HJ-NP-Z0-9]{35}$"]
+    },
+    {
+        "name": "ORDI",
+        "symbol": "ORDI",
+        "patterns": ["^bc1"]
+    },
+    {
+        "name": "IOTA",
+        "symbol": "IOTA",
+        "patterns": ["^iota1"]
+    },
+    {
+        "name": "Helium",
+        "symbol": "HNT",
+        "patterns": ["^13"]
+    },
+    {
+        "name": "Dash",
+        "symbol": "DASH",
+        "patterns": ["^X"]
+    },
+    {
+        "name": "NEM",
+        "symbol": "XEM",
+        "patterns": ["^N"]
+    },
+    {
+        "name": "Decred",
+        "symbol": "DCR",
+        "patterns": ["^D"]
+    },
+    {
+        "name": "Gas",
+        "symbol": "GAS",
+        "patterns": ["^A"]
+    },
+    {
+        "name": "Chia",
+        "symbol": "XCH",
+        "patterns": ["^xch"]
+    },
+    {
+        "name": "Harmony",
+        "symbol": "ONE",
+        "patterns": ["^one1"]
+    }
+]
